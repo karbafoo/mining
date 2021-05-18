@@ -1,8 +1,4 @@
 # mining
 
-RQLwjsk7MChNXp5UabtAahi2puq2b1emHG
 
-https://ravencoin.miningpoolhub.com/
-
-
-0x9b00b2a3514cc05ea9957ad5e4d279d724a81afb
+0xc455eB9cF0d778Bb72486Db60f35f1De1832B341
